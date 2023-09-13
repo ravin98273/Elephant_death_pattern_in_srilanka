@@ -1,0 +1,251 @@
+No,Region,District,D/S Office,Date of Death,Cause of Death,Sex,Age,Age Category
+1,North Western,Anuradhapura,Kabithigollawe,2012-01-01,Poisned,Male,35,Subadults and adults
+2,Uva,Monaragala,Wallawaya,2012-01-01,Unknown,Unknown,20,Subadults and adults
+3,Uva,Monaragala,wellawaya,2012-01-01,Unknown,Male,Unknown,Unknown
+4,Central,Nuwara Eliya,Walapane,2012-01-01,Unknown,Unknown,Unknown,Unknown
+5,North Western,Kurunegala,Galgamuwa,2012-01-02,Unknown,Unknown,Unknown,Unknown
+6,North Western,Mullaitivu,Oddusudan,2012-01-07,Hakkapatas,Female,4 - 5,Juvenile
+7,Polonnaruwa,Polonnaruwa,Dimbulagala,2012-01-07,Unknown,Female,40 - 50,Subadults and adults
+8,North Western,Anuradhapura,Kakirawa,2012-01-08,Hakkapatas,Unknown,05,Juvenile
+9,North Western,Puttalam,Nawagaththegama,2012-01-09,Gunshot,Male,Unknown,Unknown
+10,North Western,Anuradhapura,Ma.Nu. Gampalatha,2012-01-10,Gunshot,Male,25 - 30,Subadults and adults
+11,North Western,Vavuniya,Wavniya North,2012-01-11,Electrocuted,Male,20 - 25,Subadults and adults
+12,North Western,Puttalam,Karuwalagaswewa,2012-01-11,Gunshot,Male,Unknown,Unknown
+13,Polonnaruwa,Trincomalee,Kanthale,2012-01-12,Unknown,Female,4 - 5,Juvenile
+14,Southern,Monaragala,Wellawaya,2012-01-12,Gunshot,Female,25,Subadults and adults
+15,North Western,Kurunegala,Polpithigama,2012-01-15,Gunshot,Male,35,Subadults and adults
+16,Polonnaruwa,Trincomalee,Serunuwara,2012-01-20,Gunshot,Female,7.5 - 8,Juvenile
+17,Southern,Ratnapura,Abilipitiya,2012-01-26,Other,Female,2.5,Calf
+18,North Western,Vavuniya,Wavniya Southern,2012-01-27,Electrocuted,Male,20 - 25,Subadults and adults
+19,North Western,Puttalam,Karuwalagaswewa,2012-01-29,Hakkapatas,Male,Unknown,Unknown
+20,Southern,Ratnapura,Embilipitiya,2012-01-31,Natural,Female,Unknown,Unknown
+21,North Western,Kurunegala,Giribawa,2012-02-02,Gunshot,Female,Unknown,Unknown
+22,Polonnaruwa,Batticaloa,Korelepattu North,2012-02-06,Hakkapatas,Female,20,Subadults and adults
+23,Southern,Monaragala,Wellawaya,2012-02-06,Unknown,Male,35,Subadults and adults
+24,Eastern,Ampara,Damana,2012-02-06,Other,Calf,7 Months,Infant
+25,Polonnaruwa,Polonnaruwa,Hinguraggoda,2012-02-09,Train Accident,Female,20,Subadults and adults
+26,Polonnaruwa,Polonnaruwa,Welikanda,2012-02-10,Unknown,Female,6.5 Months,Infant
+27,Eastern,Ampara,Lahugala,2012-02-11,Unknown,Female,25 - 30,Subadults and adults
+28,North Western,Puttalam,Karuwalagaswewa,2012-02-13,Accident,Female,20,Subadults and adults
+29,Polonnaruwa,Trincomalee,Nagara  ha Kadawath,2012-02-15,Gunshot,Male,35,Subadults and adults
+30,Southern,Monaragala,Thanamalvila,2012-02-15,Unknown,Female,45,Subadults and adults
+31,North Western,Mannar,Musali,2012-02-16,Gunshot,Male,Unknown,Unknown
+32,North Western,Anuradhapura,Villachchiya,2012-02-17,Poisned,Female,35,Subadults and adults
+33,Polonnaruwa,Trincomalee,Morawewa,2012-02-18,Gunshot,Female,18 - 20,Subadults and adults
+34,Polonnaruwa,Trincomalee,Kanthale,2012-02-18,Hakkapatas,Male,06,Juvenile
+35,Polonnaruwa,Polonnaruwa,Dimbulagala,2012-02-18,Electrocuted,Male,40 - 45,Subadults and adults
+36,Eastern,Ampara,Ampara,2012-02-18,Other,Calf,1.5 Months,Infant
+37,North Western,Kurunegala,Ahatuwewa,2012-02-19,Land mine,Female,35 - 40,Subadults and adults
+38,North Western,Vavuniya,Oddusudan,2012-02-21,Land mine,Female,15 - 18,Subadults and adults
+39,Polonnaruwa,Anuradhapura,Palugaswewa,2012-02-23,Train Accident,Male,20 - 25,Subadults and adults
+40,YalaBundala,Hambantota,Lunugamwehera,2012-02-23,Gunshot,Male,25 - 30,Subadults and adults
+41,North Western,Mannar,Nanattan,2012-02-24,Gunshot,Female,20,Subadults and adults
+42,Polonnaruwa,Trincomalee,Morawewa,2012-02-25,Hakkapatas,Male,04 - 05,Juvenile
+43,Polonnaruwa,Ampara,Dehiaththakandiya,2012-02-25,Gunshot,Male,40,Subadults and adults
+44,Eastern,Batticaloa,Wellaweli,2012-02-26,Poisned,Male,25 - 30,Subadults and adults
+45,Eastern,Ampara,Lahugala,2012-02-27,Unknown,Female,20 - 30,Subadults and adults
+46,Eastern,Ampara,Ampara,2012-02-28,Other,Male,2 - 2.5,Calf
+47,Southern,Ratnapura,Embilipitiya,2012-02-28,Natural,Male,Unknown,Unknown
+48,Southern,Monaragala,Thanamalvila,2012-03-02,Electrocuted,Male,35,Subadults and adults
+49,North Western,Puttalam,Nawagaththegama,2012-03-02,Gunshot,Female,26 - 27,Subadults and adults
+50,North Western,Anuradhapura,Madawachchiya,2012-03-11,Unknown,Male,10 - 15,Unknown
+51,North Western,Mannar,Nanattan,2012-03-12,Unknown,Female,20 - 25,Subadults and adults
+52,Polonnaruwa,Trincomalee,Gomarankadawela,2012-03-14,Accident,Male,2 Weeks,Infant
+53,Eastern,Ampara,Lahugala,2012-03-14,Hakkapatas,Male,15 - 20,Subadults and adults
+54,North Western,Kurunegala,Galgamuwa,2012-03-14,Electrocuted,Male,25 - 30,Subadults and adults
+55,North Western,Kurunegala,Galgamuwa,2012-03-14,Electrocuted,Female,20,Subadults and adults
+56,YalaBundala,Hambantota,Thissamaharamaya,2012-03-16,Other,Male,50,Subadults and adults
+57,North Western,Kurunegala,Polpithigama,2012-03-17,Train Accident,Female,30 - 35,Subadults and adults
+58,Eastern,Ampara,Lahugala,2012-03-17,Hakkapatas,Female,20 - 25,Subadults and adults
+59,Polonnaruwa,Trincomalee,Nagara  ha Kadawath,2012-03-20,Hakkapatas,Female,22 - 24,Subadults and adults
+60,North Western,Puttalam,Nawagaththegama,2012-03-21,Gunshot,Female,26,Subadults and adults
+61,Polonnaruwa,Polonnaruwa,Dimbulagala,2012-03-28,Unknown,Female,15,Subadults and adults
+62,Polonnaruwa,Ampara,Dehiaththakandiya,2012-03-30,Unknown,Male,35,Subadults and adults
+63,Southern,Ratnapura,Embilipitiya,2012-03-31,Natural,Male,Unknown,Unknown
+64,Polonnaruwa,Trincomalee,Morawewa,2012-03-31,Poisned,Female,30 - 35,Subadults and adults
+65,Southern,Ratnapura,Abilipitiya,2012-03-31,Unknown,Unknown,0.5 Months,Infant
+66,Southern,Hambantota,Hambanthota,2012-04-01,Electrocuted,Female,30,Subadults and adults
+67,North Western,Vavuniya,Wavniya North,2012-04-03,Hakkapatas,Female,10,Juvenile
+68,Polonnaruwa,Polonnaruwa,Dimbulagala,2012-04-04,Unknown,Male,02,Calf
+69,Southern,Monaragala,Wellawaya,2012-04-05,Unknown,Female,35 - 40,Subadults and adults
+70,Eastern,Batticaloa,Chenkalladi,2012-04-05,Other,Female,15 - 20,Subadults and adults
+71,North Western,Vavuniya,Wavniya North,2012-04-06,Hakkapatas,Male,10,Juvenile
+72,Polonnaruwa,Trincomalee,Kinniya,2012-04-07,Hakkapatas,Female,30 - 35,Subadults and adults
+73,Polonnaruwa,Trincomalee,Kinniya,2012-04-08,Unknown,Female,10 - 15,Unknown
+74,Polonnaruwa,Trincomalee,Unknown,2012-04-09,Unknown,Female,10 - 15,Unknown
+75,Eastern,Ampara,Lahugala,2012-04-11,Natural,Female,70,Subadults and adults
+76,Polonnaruwa,Matale,Naula,2012-04-15,Gunshot,Female,25 - 30,Subadults and adults
+77,Polonnaruwa,Polonnaruwa,Dambulla,2012-04-15,Unknown,Male,Unknown,Unknown
+78,North Western,Anuradhapura,Horowpothana,2012-04-16,Electrocuted,Male,35,Subadults and adults
+79,Eastern,Batticaloa,Chenkalladi,2012-04-16,Natural,Male,14 - 15,Subadults and adults
+80,Polonnaruwa,Polonnaruwa,Hinguraggoda,2012-04-16,Hakkapatas,Unknown,30,Subadults and adults
+81,Polonnaruwa,Trincomalee,Nagara  ha Kadawath,2012-04-18,Hakkapatas,Male,28 - 30,Subadults and adults
+82,Southern,Monaragala,Haldumulla,2012-04-20,Unknown,Male,30,Subadults and adults
+83,North Western,Anuradhapura,Horowpothana,2012-04-20,Hakkapatas,Male,5 - 6,Juvenile
+84,Southern,Monaragala,Buththala,2012-04-22,Unknown,Male,35,Subadults and adults
+85,Southern,Ratnapura,Balangoda,2012-04-23,Accident,Male,35 - 40,Subadults and adults
+86,YalaBundala,Hambantota,Thissamaharamaya,2012-04-24,Gunshot,Male,45,Subadults and adults
+87,North Western,Puttalam,Nawagaththegama,2012-04-25,Unknown,Unknown,Unknown,Unknown
+88,Polonnaruwa,Polonnaruwa,Hinguraggoda,2012-04-26,Unknown,Unknown,30,Subadults and adults
+89,Polonnaruwa,Badulla,Mahiyanganaya,2012-04-26,Electrocuted,Male,35,Subadults and adults
+90,Eastern,Ampara,Damana,2012-04-27,Gunshot,Female,40 - 45,Subadults and adults
+91,North Western,Kurunegala,Polpithigama,2012-04-27,Injured,Female,20,Subadults and adults
+92,Polonnaruwa,Badulla,Mahiyanganaya,2012-04-30,Unknown,Male,15,Subadults and adults
+93,North Western,Anuradhapura,Kahatagasdigiliya,2012-05-03,Gunshot,Female,30,Subadults and adults
+94,Polonnaruwa,Trincomalee,Gomarankadawela,2012-05-04,Unknown,Unknown,2 - 3,Calf
+95,Polonnaruwa,Polonnaruwa,Dimbulagala,2012-05-05,Unknown,Male,35 - 40,Subadults and adults
+96,Southern,Monaragala,Thanamalvila,2012-05-05,Unknown,Male,35,Subadults and adults
+97,Polonnaruwa,Trincomalee,Serunuwara,2012-05-06,Gunshot,Male,35,Subadults and adults
+98,Polonnaruwa,Trincomalee,Kinniya,2012-05-07,Hakkapatas,Female,5 - 6,Juvenile
+99,Polonnaruwa,Polonnaruwa,Madhirigiriya,2012-05-07,Unknown,Unknown,10 - 12,Juvenile
+100,North Western,Kurunegala,Polpithigama,2012-05-07,Drought,Female, 8 - 10,Juvenile
+101,Polonnaruwa,Polonnaruwa,Kiran,2012-05-07,Train Accident,Male,30,Subadults and adults
+102,Eastern,Ampara,Thirikkovil,2012-05-09,Other,Male,40 - 45,Subadults and adults
+103,North Western,Anuradhapura,Horowpothana,2012-05-10,Hakkapatas,Male,10,Juvenile
+104,Polonnaruwa,Trincomalee,Kanthale,2012-05-10,Other,Female,3.5 - 4,Calf
+105,Polonnaruwa,Polonnaruwa,Dimbulagala,2012-05-11,Accident,Male,12 - 15,Subadults and adults
+106,Southern,Monaragala,Wallawaya,2012-05-13,Unknown,Male,35,Subadults and adults
+107,North Western,Vavuniya,Wavniya North,2012-05-14,Unknown,Male,20 - 25,Subadults and adults
+108,YalaBundala,Monaragala,Kataragama,2012-05-14,Unknown,Male,50,Subadults and adults
+109,North Western,Vavuniya,Wavniya North,2012-05-14,Unknown,Male,20 - 25,Subadults and adults
+110,Eastern,Ampara,Siyambalanduwa,2012-05-16,Unknown,Male,40 - 45,Subadults and adults
+111,Eastern,Monaragala,Madulla,2012-05-17,Gunshot,Female,40 - 45,Subadults and adults
+112,North Western,Puttalam,Karuwalagaswewa,2012-05-19,Gunshot,Female,28,Subadults and adults
+113,North Western,Puttalam,Karuwalagaswewa,2012-05-21,Injured,Female,15 - 18,Subadults and adults
+114,North Western,Mannar,Musali,2012-05-21,Unknown,Female,3 - 4,Calf
+115,North Western,Mannar,Potkerny,2012-05-22,Unknown,Male,30,Subadults and adults
+116,Polonnaruwa,Polonnaruwa,Dimbulagala,2012-05-23,Unknown,Male,15,Subadults and adults
+117,North Western,Anuradhapura,Kabithigollawe,2012-05-23,Unknown,Male,30 - 35,Subadults and adults
+118,Eastern,Ampara,Siyambalanduwa,2012-05-25,Gunshot,Male,20 - 25,Subadults and adults
+119,Polonnaruwa,Trincomalee,Serunuwara,2012-05-25,Unknown,Male,4.5,Juvenile
+120,North Western,Vavuniya,Wavniya,2012-05-31,Unknown,Male,Unknown,Unknown
+121,North Western,Vavuniya,Wavniya North,2012-06-06,Unknown,Female,15,Subadults and adults
+122,Eastern,Ampara,Uhana,2012-06-07,Septicemia,Male,5 Months,Infant
+123,Eastern,Batticaloa,Chenkalladi,2012-06-11,Unknown,Male,35 - 40,Subadults and adults
+124,North Western,Vavuniya,Wavniya North,2012-06-13,Hakkapatas,Male,01 Month,Infant
+125,Eastern,Ampara,Lahugala,2012-06-14,Unknown,Male,35 - 40,Subadults and adults
+126,Polonnaruwa,Trincomalee,Morawewa,2012-06-16,Unknown,Male,6 - 7,Juvenile
+127,Eastern,Ampara,Damana,2012-06-19,Hakkapatas,Female,20 - 22,Subadults and adults
+128,Southern,Monaragala,Kataragama,2012-06-21,Accident,Male,1.5,Calf
+129,North Western,Puttalam,Karuwalagaswewa,2012-06-25,Accident,Male,1,Calf
+130,Polonnaruwa,Polonnaruwa,Hinguraggoda,2012-06-25,Unknown,Female,15,Subadults and adults
+131,North Western,Anuradhapura,Horowpothana,2012-06-25,Hakkapatas,Female,4,Calf
+132,Central,Kandy,Ududumbara,2012-06-25,Accident,Unknown,9 Months,Infant
+133,North Western,Kurunegala,Nikaweratiya,2012-06-25,Poisned,Male,20,Subadults and adults
+134,Polonnaruwa,Polonnaruwa,Hinguraggoda,2012-06-25,Unknown,Female,30,Subadults and adults
+135,Eastern,Monaragala,Madulla,2012-06-26,Gunshot,Male,35 - 40,Subadults and adults
+136,Eastern,Ampara,Ampara,2012-06-26,Unknown,Male,35 - 40,Subadults and adults
+137,North Western,Puttalam,Puttlam,2012-06-27,Gunshot,Unknown,30,Subadults and adults
+138,Central,Badulla,Kandaketiya,2012-06-28,Gunshot,Male,35,Subadults and adults
+139,Southern,Monaragala,Badalkubura,2012-07-01,Unknown,Male,Unknown,Unknown
+140,Polonnaruwa,Trincomalee,Morawewa,2012-07-04,Other,Male,2 Months,Infant
+141,North Western,Vavuniya,Wavniya Southern,2012-07-05,Hakkapatas,Male,6 - 10,Juvenile
+142,Polonnaruwa,Matale,Dambulla,2012-07-08,Gunshot,Female,4 - 5,Juvenile
+143,Southern,Badulla,Badalkubura,2012-07-15,Unknown,Male,07,Juvenile
+144,Uva,Monaragala,Wellawaya,2012-07-15,Accident,Male,07,Juvenile
+145,North Western,Puttalam,Wanathavilluwa,2012-07-17,Accident,Unknown,15,Subadults and adults
+146,North Western,Kurunegala,Galgamuwa,2012-07-17,Gunshot,Unknown,20 - 25,Subadults and adults
+147,Polonnaruwa,Ampara,Padiyathalawa,2012-07-19,Natural,Female,30,Subadults and adults
+148,Polonnaruwa,Trincomalee,Kanthale,2012-07-25,Hakkapatas,Female,20 - 25,Subadults and adults
+149,North Western,Anuradhapura,Palugaswewa,2012-07-29,Nivukeniya,Male,6 - 7,Juvenile
+150,Southern,Ratnapura,Embilipitiya,2012-07-31,Natural,Male,Unknown,Unknown
+151,Eastern,Ampara,Siyambalanduwa,2012-08-04,Gunshot,Male,35 - 40,Subadults and adults
+152,Eastern,Badulla,Mahiyanganaya,2012-08-05,Unknown,Male,35 - 40,Subadults and adults
+153,Polonnaruwa,Trincomalee,Morawewa,2012-08-07,Hakkapatas,Male,5 - 6,Juvenile
+154,Southern,Ratnapura,Balangoda,2012-08-10,Unknown,Unknown,1.5,Calf
+155,Central,Kandy,Ududumbara,2012-08-13,Gunshot,Male,45,Subadults and adults
+156,North Western,Kurunegala,Galgamuwa,2012-08-17,Hakkapatas,Female,15,Subadults and adults
+157,Eastern,Ampara,Lahugala,2012-08-17,Unknown,Male,1 - 1.5,Calf
+158,Southern,Hambantota,Hambanthota,2012-08-17,Unknown,Male,1 Week,Infant
+159,Polonnaruwa,Polonnaruwa,Elahara,2012-08-18,Gunshot,Male,35,Subadults and adults
+160,North Western,Kurunegala,Palagala,2012-08-18,Accident,Male,45,Subadults and adults
+161,Polonnaruwa,Polonnaruwa,Thamankaduwa,2012-08-20,Gunshot,Male,24,Subadults and adults
+162,Eastern,Ampara,Lahugala,2012-08-23,Gunshot,Male,40 - 45,Subadults and adults
+163,Eastern,Ampara,Dehiaththakandiya,2012-08-27,Gunshot,Female,35,Subadults and adults
+164,Uva,Monaragala,Kataragama,2012-08-28,Unknown,Male,1 Week,Infant
+165,Uva,Hambantota,Lunugamwehera,2012-08-29,Accident,Female,30 - 35,Subadults and adults
+166,Polonnaruwa,Polonnaruwa,Thamankaduwa,2012-08-29,Gunshot,Male,25,Subadults and adults
+167,Central,Nuwara Eliya,Walapane,2012-08-31,Unknown,Male,04,Calf
+168,Polonnaruwa,Trincomalee,Morawewa,2012-09-01,Unknown,Male,16 - 18,Subadults and adults
+169,Polonnaruwa,Polonnaruwa,Welikanda,2012-09-02,Injured,Female, 5 - 6,Juvenile
+170,Uva,Monaragala,Siyambalanduwa,2012-09-04,Unknown,Female,25 - 30,Subadults and adults
+171,Polonnaruwa,Polonnaruwa,Welikanda,2012-09-04,Injured,Male,8 - 9,Juvenile
+172,Anuradhapura,Anuradhapura,Nochchiyagama,2012-09-07,Hakkapatas,Male,03,Calf
+173,North Western,Kurunegala,Galgamuwa,2012-09-07,Hakkapatas,Male,9 - 10,Juvenile
+174,Eastern,Ampara,Lahugala,2012-09-08,Poisned,Female,3.5 Months,Infant
+175,Uva,Monaragala,Ampara,2012-09-09,Septicemia,Male,1 Week,Infant
+176,Eastern,Ampara,Damana,2012-09-11,Unknown,Female,25 - 30,Subadults and adults
+177,Eastern,Monaragala,Siyambalanduwa,2012-09-14,Unknown,Female,25 - 30,Subadults and adults
+178,Anuradhapura,Anuradhapura,Kakirawa,2012-09-14,Train Accident,Male,08,Juvenile
+179,Eastern,Ampara,Damana,2012-09-17,Hakkapatas,Female,25 - 30,Subadults and adults
+180,Anuradhapura,Vavuniya,Vawniya,2012-09-20,Hakkapatas,Male,05,Juvenile
+181,Polonnaruwa,Trincomalee,Muthur,2012-09-20,Gunshot,Male,35,Subadults and adults
+182,Eastern,Ampara,Mahaoya,2012-09-21,Hakkapatas,Male,20,Subadults and adults
+183,Anuradhapura,Anuradhapura,Thirappane,2012-09-22,Other,Male,20,Subadults and adults
+184,Polonnaruwa,Trincomalee,Morawewa,2012-09-22,Unknown,Male,6 - 7,Juvenile
+185,Eastern,Ampara,Dehiaththakandiya,2012-09-23,Gunshot,Female,07,Juvenile
+186,Uva,Monaragala,Madulla,2012-09-24,Unknown,Female,25 - 27,Subadults and adults
+187,Uva,Hambantota,Thissamaharamaya,2012-09-25,Unknown,Male,02,Calf
+188,North Western,Puttalam,Karuwalagaswewa,2012-09-26,Gunshot,Female,15 - 16,Subadults and adults
+189,Eastern,Monaragala,Madulla,2012-09-27,Gunshot,Female,20 - 25,Subadults and adults
+190,Southern,Monaragala,Thanamalvila,2012-09-27,Poisned,Male,05,Juvenile
+191,Uva,Monaragala,Wellawaya,2012-09-29,Electrocuted,Male,17 - 20,Subadults and adults
+192,Anuradhapura,Anuradhapura,Palugaswewa,2012-10-02,Accident,Male,01,Calf
+193,Polonnaruwa,Matale,Vilgamuwa,2012-10-06,Accident,Female,40,Subadults and adults
+194,Southern,Hambantota,Hambanthota,2012-10-07,Unknown,Male,04,Calf
+195,Anuradhapura,Anuradhapura,Thalawa,2012-10-07,Accident,Male,40,Subadults and adults
+196,Uva,Hambantota,Lunugamwehera,2012-10-09,Natural,Male,04,Calf
+197,Anuradhapura,Anuradhapura,Kahatagasdigiliya,2012-10-09,Hakkapatas,Male,20,Subadults and adults
+198,Anuradhapura,Anuradhapura,Mahavilachchiya,2012-10-12,Electrocuted,Male,40,Subadults and adults
+199,Eastern,Batticaloa,Chenkalladi,2012-10-13,Unknown,Male,10 - 15,Unknown
+200,Eastern,Ampara,Dehiaththakandiya,2012-10-14,Gunshot,Male,Unknown,Unknown
+201,Polonnaruwa,Trincomalee,Kanthale,2012-10-16,Hakkapatas,Male,4 - 5,Juvenile
+202,Anuradhapura,Mannar,Musali,2012-10-17,Unknown,Male,5 - 8,Juvenile
+203,North Western,Kurunegala,Ambanpola,2012-10-21,Train Accident,Male,20 - 25,Subadults and adults
+204,North Western,Puttalam,Anamaduwa,2012-10-26,Unknown,Male,25 - 30,Subadults and adults
+205,Anuradhapura,Anuradhapura,Kabithigollawe,2012-10-28,Unknown,Male,18 - 20,Subadults and adults
+206,Southern,Ratnapura,Embilipitiya,2012-10-31,Natural,Female,Unknown,Unknown
+207,Southern,Ratnapura,Embilipitiya,2012-10-31,Natural,Male,Unknown,Unknown
+208,Anuradhapura,Anuradhapura,Horowpothana,2012-11-01,Hakkapatas,Female,05,Juvenile
+209,Eastern,Ampara,Mahaoya,2012-11-05,Gunshot,Male,Unknown,Unknown
+210,Polonnaruwa,Polonnaruwa,Dimbulagala,2012-11-05,Unknown,Male,45 - 50,Subadults and adults
+211,Polonnaruwa,Polonnaruwa,Unknown,2012-11-06,Electrocuted,Male,35,Subadults and adults
+212,Anuradhapura,Anuradhapura,Horowpothana,2012-11-08,Hakkapatas,Female,15,Subadults and adults
+213,North Western,Puttalam,Karuwalagaswewa,2012-11-09,Other,Unknown,1,Calf
+214,North Western,Kurunegala,Polpithigama,2012-11-11,Poisned,Male,40 - 50,Subadults and adults
+215,Eastern,Ampara,Mahaoya,2012-11-11,Gunshot,Male,Unknown,Unknown
+216,Eastern,Batticaloa,Kiran,2012-11-11,Electrocuted,Male,35 - 40,Subadults and adults
+217,Eastern,Batticaloa,Kiran,2012-11-11,Electrocuted,Male,35 - 40,Subadults and adults
+218,Eastern,Batticaloa,Kiran,2012-11-11,Electrocuted,Male,35 - 40,Subadults and adults
+219,Eastern,Batticaloa,Kiran,2012-11-11,Electrocuted,Male,35 - 40,Subadults and adults
+220,Anuradhapura,Anuradhapura,Madawachchiya,2012-11-12,Gunshot,Male,Unknown,Unknown
+221,Uva,Monaragala,Wellawaya,2012-11-13,Unknown,Male,10 - 15,Unknown
+222,Polonnaruwa,Polonnaruwa,Unknown,2012-11-16,Hakkapatas,Female,18 - 20,Subadults and adults
+223,North Western,Puttalam,Wanathavilluwa,2012-11-18,Unknown,Male,10 ,Juvenile
+224,Eastern,Ampara,Damana,2012-11-18,Hakkapatas,Female,10 - 15,Unknown
+225,Anuradhapura,Anuradhapura,Nachchaduwa,2012-11-19,Gunshot,Male,15,Subadults and adults
+226,Southern,Hambantota,Hambanthota,2012-11-20,Unknown,Unknown,Unknown,Unknown
+227,Anuradhapura,Anuradhapura,Madawachchiya,2012-11-22,Accident,Unknown,Unknown,Unknown
+228,Anuradhapura,Anuradhapura,Madawachchiya,2012-11-22,Train Accident,Female,20,Subadults and adults
+229,Polonnaruwa,Polonnaruwa,Unknown,2012-11-28,Land mine,Female,25 - 30,Subadults and adults
+230,Anuradhapura,Anuradhapura,Welioya,2012-11-28,Land mine,Male,35,Subadults and adults
+231,Polonnaruwa,Trincomalee,Nagara  ha Kadawath,2012-11-28,Land mine,Female,25 - 30,Subadults and adults
+232,Uva,Hambantota,Thissamaharamaya,2012-11-29,Unknown,Male,8 - 10,Juvenile
+233,Polonnaruwa,Batticaloa,Kiran,2012-11-29,Electrocuted,Male,35 - 40,Subadults and adults
+234,Polonnaruwa,Batticaloa,Kiran,2012-11-29,Electrocuted,Male,25 - 35,Subadults and adults
+235,Polonnaruwa,Batticaloa,Kiran,2012-11-29,Electrocuted,Male,35 - 40,Subadults and adults
+236,Polonnaruwa,Batticaloa,Kiran,2012-11-29,Electrocuted,Male,35 - 40,Subadults and adults
+237,Anuradhapura,Anuradhapura,Palugaswewa,2012-11-30,Accident,Male,35 - 40,Subadults and adults
+238,Uva,Monaragala,Buththala,2012-12-10,Unknown,Male,02,Calf
+239,Polonnaruwa,Trincomalee,Kinniya,2012-12-10,Unknown,Male,4 - 5,Juvenile
+240,Eastern,Ampara,Mahaoya,2012-12-11,Gunshot,Female,30 - 35,Subadults and adults
+241,Southern,Hambantota,Hambanthota,2012-12-15,Accident,Male,35 - 40,Subadults and adults
+242,Polonnaruwa,Trincomalee,Kanthale,2012-12-16,Hakkapatas,Male,05,Juvenile
+243,North Western,Puttalam,Karuwalagaswewa,2012-12-17,Unknown,Female,25,Subadults and adults
+244,Polonnaruwa,Polonnaruwa,Hinguraggoda,2012-12-21,Train Accident,Female,15 - 20,Subadults and adults
+245,Polonnaruwa,Polonnaruwa,Hinguraggoda,2012-12-21,Train Accident,Female,15 - 20,Subadults and adults
+246,Polonnaruwa,Trincomalee,Kinniya,2012-12-22,Unknown,Female,15 - 20,Subadults and adults
+247,Polonnaruwa,Polonnaruwa,Welikanda,2012-12-23,Unknown,Male,45,Subadults and adults
+248,North Western,Kurunegala,Ambanpola,2012-12-27,Train Accident,Female,25 - 30,Subadults and adults
+249,Anuradhapura,Vavuniya,Welioya,2012-12-29,Electrocuted,Female,25,Subadults and adults
+250,Southern,Ratnapura,Embilipitiya,2012-12-31,Natural,Male,Unknown,Unknown
