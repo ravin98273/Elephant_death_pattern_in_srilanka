@@ -30,11 +30,11 @@ No,Region,District,D/S Office,Date of Death,Cause of Death,Sex,Age,Age Category
 29,Eastern,Ampara,Lahugala,2010-03-03,Gunshot,Male,40-45,Subadults and adults
 30,Polonnaruwa,Trincomalee,Kantalai,2010-03-06,Gunshot,Male,30-35,Subadults and adults
 31,North Western,Unknown,Unknown,2010-03-08,Poisned,Male,25-30,Subadults and adults
-32,Southern,Monaragala,Wellawaya,2010-03-09,Gunshot,Calf,4,Calf
+32,Southern,Monaragala,Wellawaya,2010-03-09,Gunshot,Unknown,4,Calf
 33,North Western,Monaragala,Unknown,2010-03-12,Unknown,Unknown,2-4,Calf
 34,Eastern,Ampara,Samanthurai,2010-03-16,Electrocuted,Male,18-20,Subadults and adults
 35,Polonnaruwa,Matale,Wilgamuwa,2010-03-16,Gunshot,Female,30-35,Subadults and adults
-36,Polonnaruwa,Matale,Wilgamuwa,2010-03-16,Other,Calf,1 Month,Infant
+36,Polonnaruwa,Matale,Wilgamuwa,2010-03-16,Other,Unknown,1 Month,Infant
 37,Southern,Hambantota,Hambantota,2010-03-17,Gunshot,Male,45,Subadults and adults
 38,Southern,Monaragala,Wellawaya,2010-03-18,Gunshot,Male,25,Subadults and adults
 39,Polonnaruwa,Ampara,Dehiattakandiya,2010-03-19,Gunshot,Male,12,Juvenile
@@ -106,7 +106,7 @@ No,Region,District,D/S Office,Date of Death,Cause of Death,Sex,Age,Age Category
 105,Southern,Hambantota,Hambantota,2010-07-03,Unknown,Unknown,20,Subadults and adults
 106,Southern,Hambantota,Katharagama,2010-07-03,Gunshot,Male,15-20,Subadults and adults
 107,YalaBundala,Hambantota,Thissamaharama,2010-07-06,Unknown,Male,Unknown,Unknown
-108,Polonnaruwa,Polonnaruwa,Hingurakgoda,2010-07-09,Gunshot,Calf,35-40,Subadults and adults
+108,Polonnaruwa,Polonnaruwa,Hingurakgoda,2010-07-09,Gunshot,Unknown,35-40,Subadults and adults
 109,North Western,Anuradhapura,N. Palatha Central,2010-07-10,Gunshot,Male,30,Subadults and adults
 110,Polonnaruwa,Trincomalee,Kuchchaveli,2010-07-11,Gunshot,Male,Male,Unknown
 111,Southern,Monaragala,Thanamalvila,2010-07-12,Unknown,Male,2 Weeks,Infant
@@ -254,7 +254,7 @@ No,Region,District,D/S Office,Date of Death,Cause of Death,Sex,Age,Age Category
 253,Eastern,Batticaloa,Koralai Pattu North,2011-01-30,Gunshot,Male,20-25,Subadults and adults
 254,Eastern,Batticaloa,Koralai Pattu North,2011-01-30,Gunshot,Female,35-40,Subadults and adults
 255,North Western,Anuradhapura,Galenbindunuwewa,2011-01-31,Hakkapatas,Male,15,Subadults and adults
-256,Southern,Ratnapura,Embilipitiya,2011-01-31,Unknown,Calf,4,Calf
+256,Southern,Ratnapura,Embilipitiya,2011-01-31,Unknown,Unknown,4,Calf
 257,Southern,Ratnapura,Embilipitiya,2011-01-31,Unknown,Unknown,Unknown,Unknown
 258,Southern,Ratnapura,Embilipitiya,2011-01-31,Unknown,Unknown,Unknown,Unknown
 259,Southern,Ratnapura,Embilipitiya,2011-01-31,Unknown,Unknown,Unknown,Unknown
@@ -330,7 +330,7 @@ No,Region,District,D/S Office,Date of Death,Cause of Death,Sex,Age,Age Category
 329,Central,Badulla,Kandaketiya,2011-04-24,Gunshot,Male,20,Subadults and adults
 330,Mahaweli,Matale,Naula,2011-04-25,Accident,Male,30-35,Subadults and adults
 331,North Western,Anuradhapura,Horowpothana,2011-04-29,Unknown,Female,4.5,Juvenile
-332,Southern,Ratnapura,Embilipitiya,2011-04-30,Unknown,Calf,4,Calf
+332,Southern,Ratnapura,Embilipitiya,2011-04-30,Unknown,Unknown,4,Calf
 333,North Western,Anuradhapura,Palagala,2011-04-30,Poisned,Female,40-44,Subadults and adults
 334,Mahaweli,Trincomalee,Morawewa,2011-05-01,Hakkapatas,Male,12-15,Subadults and adults
 335,YalaBundala,Monaragala,Katharagama,2011-05-02,Unknown,Male,15-16,Subadults and adults
@@ -350,7 +350,7 @@ No,Region,District,D/S Office,Date of Death,Cause of Death,Sex,Age,Age Category
 349,Mahaweli,Trincomalee,Morawewa,2011-05-30,Hakkapatas,Female,20-25,Subadults and adults
 350,Southern,Ratnapura,Embilipitiya,2011-05-31,Unknown,Unknown,Unknown,Unknown
 351,Southern,Ratnapura,Embilipitiya,2011-05-31,Unknown,Unknown,Unknown,Unknown
-352,Southern,Ratnapura,Embilipitiya,2011-05-31,Unknown,Calf,4,Calf
+352,Southern,Ratnapura,Embilipitiya,2011-05-31,Unknown,Unknown,4,Calf
 353,North Western,Kurunegala,Galgamuwa,2011-06-01,Electrocuted,Male,35,Subadults and adults
 354,Mahaweli,Polonnaruwa,Thamankaduwa,2011-06-09,Unknown,Male,18-20,Subadults and adults
 355,Eastern,Batticaloa,Eravur Pattu,2011-06-10,Hakkapatas,Male,15-20,Subadults and adults
@@ -411,7 +411,7 @@ No,Region,District,D/S Office,Date of Death,Cause of Death,Sex,Age,Age Category
 410,Mahaweli,Trincomalee,Kantalai,2011-08-28,Unknown,Male,20-25,Subadults and adults
 411,YalaBundala,Monaragala,Buttala,2011-08-29,Natural,Male,1 Week,Infant
 412,Eastern,Ampara,Uhana,2011-08-29,Other,Female,25-30,Subadults and adults
-413,Southern,Ratnapura,Embilipitiya,2011-08-31,Unknown,Calf,4,Calf
+413,Southern,Ratnapura,Embilipitiya,2011-08-31,Unknown,Unknown,4,Calf
 414,Mahaweli,Trincomalee,Morawewa,2011-09-01,Hakkapatas,Male,10-15,Unknown
 415,North Western,Vavuniya,Padaviya,2011-09-02,Unknown,Female,Unknown,Unknown
 416,Southern,Hambantota,Hambantota,2011-09-03,Electrocuted,Male,35,Subadults and adults
@@ -426,7 +426,7 @@ No,Region,District,D/S Office,Date of Death,Cause of Death,Sex,Age,Age Category
 425,Mahaweli,Polonnaruwa,Hingurakgoda,2011-09-20,Train Accident,Male,10-12,Juvenile
 426,Mahaweli,Polonnaruwa,Hingurakgoda,2011-09-20,Train Accident,Male,9 Months,Infant
 427,North Western,Anuradhapura,Palugaswewa,2011-09-28,Unknown,Male,8-9,Juvenile
-428,Southern,Ratnapura,Embilipitiya,2011-09-30,Unknown,Calf,4,Calf
+428,Southern,Ratnapura,Embilipitiya,2011-09-30,Unknown,Unknown,4,Calf
 429,North Western,Anuradhapura,Thirappane,2011-09-30,Injured,Female,45,Subadults and adults
 430,Mahaweli,Polonnaruwa,Thamankaduwa,2011-10-01,Hakkapatas,Female,18,Subadults and adults
 431,North Western,Anuradhapura,Unknown,2011-10-01,Unknown,Female,49,Subadults and adults
@@ -504,7 +504,7 @@ No,Region,District,D/S Office,Date of Death,Cause of Death,Sex,Age,Age Category
 503,North Western,Kurunegala,Giribawa,2012-02-02,Gunshot,Female,Unknown,Unknown
 504,Polonnaruwa,Batticaloa,Koralai Pattu North,2012-02-06,Hakkapatas,Female,20,Subadults and adults
 505,Southern,Monaragala,Wellawaya,2012-02-06,Unknown,Male,35,Subadults and adults
-506,Eastern,Ampara,Damana,2012-02-06,Other,Calf,7 Months,Infant
+506,Eastern,Ampara,Damana,2012-02-06,Other,Unknown,7 Months,Infant
 507,Polonnaruwa,Polonnaruwa,Hingurakgoda,2012-02-09,Train Accident,Female,20,Subadults and adults
 508,Polonnaruwa,Polonnaruwa,Welikanda,2012-02-10,Unknown,Female,6.5 Months,Infant
 509,Eastern,Ampara,Lahugala,2012-02-11,Unknown,Female,25 - 30,Subadults and adults
@@ -516,7 +516,7 @@ No,Region,District,D/S Office,Date of Death,Cause of Death,Sex,Age,Age Category
 515,Polonnaruwa,Trincomalee,Morawewa,2012-02-18,Gunshot,Female,18 - 20,Subadults and adults
 516,Polonnaruwa,Trincomalee,Kantalai,2012-02-18,Hakkapatas,Male,06,Juvenile
 517,Polonnaruwa,Polonnaruwa,Dimbulagala,2012-02-18,Electrocuted,Male,40 - 45,Subadults and adults
-518,Eastern,Ampara,Ampara,2012-02-18,Other,Calf,1.5 Months,Infant
+518,Eastern,Ampara,Ampara,2012-02-18,Other,Unknown,1.5 Months,Infant
 519,North Western,Kurunegala,Ehetuwewa,2012-02-19,Land mine,Female,35 - 40,Subadults and adults
 520,North Western,Vavuniya,Oddusuddan,2012-02-21,Land mine,Female,15 - 18,Subadults and adults
 521,Polonnaruwa,Anuradhapura,Palugaswewa,2012-02-23,Train Accident,Male,20 - 25,Subadults and adults
@@ -1816,10 +1816,10 @@ No,Region,District,D/S Office,Date of Death,Cause of Death,Sex,Age,Age Category
 1815,Polonnaruwa,Polonnaruwa,Elahera,2017-09-16,Electrocuted,Male,25-30,Subadults and adults
 1816,Southern,Hambantota,Hambantota,2017-09-17,Gunshot,Male,unknown,Unknown
 1817,Polonnaruwa,Polonnaruwa,Elahera,2017-09-20,Hakkapatas,Male,35,Subadults and adults
-1818,Wayamba,Anuradhapura,Galgamuwa,2017-09-24,Unknown,Calf,5,Juvenile
+1818,Wayamba,Anuradhapura,Galgamuwa,2017-09-24,Unknown,Unknown,5,Juvenile
 1819,Eastern,Batticaloa,Eravur Pattu,2017-09-28,Fallen into well,Male,4 Months,Infant
 1820,Puttalam,Puttalam,Karuwalagaswewa,2017-09-30,Accident,Female,6,Juvenile
-1821,Puttalam,Puttalam,Nawagattegama,2017-09-30,At born,Calf,unknown,Unknown
+1821,Puttalam,Puttalam,Nawagattegama,2017-09-30,At born,Unknown,unknown,Unknown
 1822,Elephant Transit Home,Ratnapura,Ratnapura,2017-09-30,Natural,Female,Unknown,Unknown
 1823,Southern,Hambantota,Sooriyawewa,2017-10-01,Unknown,Male,unknown,Unknown
 1824,Wayamba,Kurunegala,Giribawa,2017-10-02,Gunshot,Male,24,Subadults and adults

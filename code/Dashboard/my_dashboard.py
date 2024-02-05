@@ -15,10 +15,10 @@ import base64
 
 
 # Title
-st.title('My Streamlit Dashboard')
+st.title('Elephant Death Patterns')
 
 # Data loading
-df = pd.read_csv(r'..\..\data\Cleaned_data\cancat.csv')  # Load your data
+df=pd.read_csv(r'..\..\data\Cleaned_data\cancat.csv')
 # Load Sri Lankan district boundaries
 districts = gpd.read_file(r'..\..\data\Map_file\District_geo.json')  # Specify the path to your GeoJSON file
 
@@ -122,3 +122,4 @@ elif option == 'Option 3':
         #interact(update_map, year=year_slider)
         update_map(selected_year)
     
+
